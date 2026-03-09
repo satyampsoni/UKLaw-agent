@@ -13,6 +13,7 @@ Built on the [Relax AI API](https://www.civo.com/relax-ai) by **CIVO**, it runs 
 | **Consumer Rights Act 2015** | 1,163 nodes | Faulty goods, unfair terms, digital content |
 
 > **8,341 legal nodes** totalling **825,950 characters** of statutory text, indexed with FTS5 full-text search.
+<img width="1511" height="858" alt="Screenshot 2026-03-09 at 11 44 38 PM" src="https://github.com/user-attachments/assets/a5044130-d602-4f0d-a4f9-d8522226f126" />
 
 ---
 
